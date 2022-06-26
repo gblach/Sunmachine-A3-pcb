@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "RCWL-0516")(type "KiCad")(uri "${KIPRJMOD}/RCWL-0516.kicad_sym")(options "")(descr ""))
+  (lib (name "Raytac")(type "KiCad")(uri "${KIPRJMOD}/Raytac.kicad_sym")(options "")(descr ""))
+)
